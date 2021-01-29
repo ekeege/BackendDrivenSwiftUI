@@ -1,0 +1,18 @@
+{
+    "title": "Home",
+    "templates": [
+        {
+            "type": "section1",
+            "info": {
+                "title": "Section 1",
+                "imageSystemName": "heart.fill"
+            }
+        },
+        {
+            "type": "section2",
+            "info": {
+                "title": "Section 2"
+            }
+        }
+    ]
+}
